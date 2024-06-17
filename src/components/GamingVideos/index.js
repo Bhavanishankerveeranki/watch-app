@@ -17,6 +17,7 @@ import {
   GamingVideoList,
   GamingText,
   LoaderContainer,
+  GamingViewsAndDate,
 } from './styledComponents'
 
 const apiStatusConstants = {

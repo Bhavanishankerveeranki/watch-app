@@ -14,7 +14,6 @@ import {
   Dot,
 } from './styledComponents'
 
-import './index.css'
 
 const HomeVideoCard = props => {
   const {video} = props
